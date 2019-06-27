@@ -16,3 +16,4 @@ G:\BITM All App\OOPPracticApp\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticAp
 G:\BITM All App\OOPPracticApp\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.Screens.AccountOperation.resources
 G:\BITM All App\OOPPracticApp\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.Screens.SalaryCalculation.resources
 G:\BITM All App\OOPPracticApp\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.csproj.GenerateResource.Cache
+G:\BITM All App\OOPPracticApp\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.Screens.CalculatorForm.resources

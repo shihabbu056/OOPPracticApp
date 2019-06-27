@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Models\Account.cs" />
+    <Compile Include="Models\Calculator.cs" />
     <Compile Include="Models\Salary.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -54,6 +55,12 @@
     </Compile>
     <Compile Include="Screens\AccountOperation.Designer.cs">
       <DependentUpon>AccountOperation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\CalculatorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\CalculatorForm.Designer.cs">
+      <DependentUpon>CalculatorForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Screens\SalaryCalculation.cs">
       <SubType>Form</SubType>
@@ -72,6 +79,9 @@
     </Compile>
     <EmbeddedResource Include="Screens\AccountOperation.resx">
       <DependentUpon>AccountOperation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\CalculatorForm.resx">
+      <DependentUpon>CalculatorForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Screens\SalaryCalculation.resx">
       <DependentUpon>SalaryCalculation.cs</DependentUpon>
