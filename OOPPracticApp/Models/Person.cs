@@ -10,42 +10,23 @@ namespace OOPPracticApp.Models
     {
         private string firstname;
         private string middleName;
-        private string lastName;
+        private string lastName;       
+        
+        public Person()
+        {
 
-        public string FirstName
-        {
-            get
-            {
-                return firstname;
-            }
-            set
-            {
-                firstname = value;
-            }
         }
-        public string MiddleName
+        public Person(string firstName, string lastName)
         {
-            get
-            {
-                return middleName;
-            }
-            set
-            {
-                middleName = value;
-            }
+            this.firstname = firstname;
+            this.lastName = lastName;
         }
-        public string LastName
+        public Person(string firstName, string middleName, string lastName)
         {
-            get
-            {
-                return lastName;
-            }
-            set
-            {
-                lastName = value;
-            }
+            this.firstname = firstname;
+            this.middleName = middleName;
+            this.lastName = lastName;
         }
-
 
         //public string FirstName { set; get; }
         //public string MiddleName { set; get; }
