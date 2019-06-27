@@ -19,7 +19,8 @@ namespace OOPPracticApp
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new AccountOperation());
             //Application.Run(new SalaryCalculation());
-            Application.Run(new CalculatorForm());
+            //Application.Run(new CalculatorForm());
+            Application.Run(new PersonInformationForm());
         }
     }
 }
