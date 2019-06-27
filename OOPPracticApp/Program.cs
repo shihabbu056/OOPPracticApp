@@ -17,7 +17,8 @@ namespace OOPPracticApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new AccountOperation());
+            //Application.Run(new AccountOperation());
+            Application.Run(new SalaryCalculation());
         }
     }
 }

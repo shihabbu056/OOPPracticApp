@@ -7,3 +7,12 @@ G:\BITM All App\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.Screens.Acco
 G:\BITM All App\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.exe
 G:\BITM All App\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.pdb
 G:\BITM All App\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.csprojResolveAssemblyReference.cache
+G:\BITM All App\OOPPracticApp\OOPPracticApp\OOPPracticApp\bin\Debug\OOPPracticApp.exe.config
+G:\BITM All App\OOPPracticApp\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.exe
+G:\BITM All App\OOPPracticApp\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.pdb
+G:\BITM All App\OOPPracticApp\OOPPracticApp\OOPPracticApp\bin\Debug\OOPPracticApp.exe
+G:\BITM All App\OOPPracticApp\OOPPracticApp\OOPPracticApp\bin\Debug\OOPPracticApp.pdb
+G:\BITM All App\OOPPracticApp\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.Properties.Resources.resources
+G:\BITM All App\OOPPracticApp\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.Screens.AccountOperation.resources
+G:\BITM All App\OOPPracticApp\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.Screens.SalaryCalculation.resources
+G:\BITM All App\OOPPracticApp\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.csproj.GenerateResource.Cache
