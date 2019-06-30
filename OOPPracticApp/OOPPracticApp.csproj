@@ -47,9 +47,14 @@
   <ItemGroup>
     <Compile Include="Models\Account.cs" />
     <Compile Include="Models\Calculator.cs" />
+    <Compile Include="Models\Employee.cs" />
     <Compile Include="Models\Person.cs" />
+    <Compile Include="Models\ProductInfo.cs" />
     <Compile Include="Models\Refrigerator.cs" />
+    <Compile Include="Models\Result.cs" />
     <Compile Include="Models\Salary.cs" />
+    <Compile Include="Models\Salary2.cs" />
+    <Compile Include="Models\ShopInfo.cs" />
     <Compile Include="Models\Vehicle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -65,6 +70,12 @@
     <Compile Include="Screens\CalculatorForm.Designer.cs">
       <DependentUpon>CalculatorForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Screens\EmployeeSalaryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\EmployeeSalaryForm.Designer.cs">
+      <DependentUpon>EmployeeSalaryForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Screens\PersonInformationForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,6 +87,12 @@
     </Compile>
     <Compile Include="Screens\RefrigeratorForm.Designer.cs">
       <DependentUpon>RefrigeratorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\ResultForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\ResultForm.Designer.cs">
+      <DependentUpon>ResultForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Screens\SalaryCalculation.cs">
       <SubType>Form</SubType>
@@ -104,11 +121,17 @@
     <EmbeddedResource Include="Screens\CalculatorForm.resx">
       <DependentUpon>CalculatorForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Screens\EmployeeSalaryForm.resx">
+      <DependentUpon>EmployeeSalaryForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Screens\PersonInformationForm.resx">
       <DependentUpon>PersonInformationForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Screens\RefrigeratorForm.resx">
       <DependentUpon>RefrigeratorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\ResultForm.resx">
+      <DependentUpon>ResultForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Screens\SalaryCalculation.resx">
       <DependentUpon>SalaryCalculation.cs</DependentUpon>

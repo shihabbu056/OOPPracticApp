@@ -34,3 +34,19 @@ G:\BITM All App\OOPPracticApp\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticAp
 G:\BITM All App\OOPPracticApp\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.Screens.RefrigeratorForm.resources
 G:\BITM All App\OOPPracticApp\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.csprojResolveAssemblyReference.cache
 G:\BITM All App\OOPPracticApp\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.Screens.VehicleForm.resources
+D:\BITM-App\OOPPracticApp\OOPPracticApp\bin\Debug\OOPPracticApp.exe.config
+D:\BITM-App\OOPPracticApp\OOPPracticApp\bin\Debug\OOPPracticApp.exe
+D:\BITM-App\OOPPracticApp\OOPPracticApp\bin\Debug\OOPPracticApp.pdb
+D:\BITM-App\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.csprojAssemblyReference.cache
+D:\BITM-App\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.Properties.Resources.resources
+D:\BITM-App\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.Screens.AccountOperation.resources
+D:\BITM-App\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.Screens.CalculatorForm.resources
+D:\BITM-App\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.Screens.PersonInformationForm.resources
+D:\BITM-App\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.Screens.RefrigeratorForm.resources
+D:\BITM-App\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.Screens.SalaryCalculation.resources
+D:\BITM-App\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.Screens.VehicleForm.resources
+D:\BITM-App\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.csproj.GenerateResource.cache
+D:\BITM-App\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.csproj.CoreCompileInputs.cache
+D:\BITM-App\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.exe
+D:\BITM-App\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.pdb
+D:\BITM-App\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.Screens.ResultForm.resources
