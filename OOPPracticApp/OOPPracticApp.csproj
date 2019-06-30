@@ -48,6 +48,7 @@
     <Compile Include="Models\Account.cs" />
     <Compile Include="Models\Calculator.cs" />
     <Compile Include="Models\Person.cs" />
+    <Compile Include="Models\Refrigerator.cs" />
     <Compile Include="Models\Salary.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -68,6 +69,12 @@
     </Compile>
     <Compile Include="Screens\PersonInformationForm.Designer.cs">
       <DependentUpon>PersonInformationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\RefrigeratorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\RefrigeratorForm.Designer.cs">
+      <DependentUpon>RefrigeratorForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Screens\SalaryCalculation.cs">
       <SubType>Form</SubType>
@@ -92,6 +99,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Screens\PersonInformationForm.resx">
       <DependentUpon>PersonInformationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\RefrigeratorForm.resx">
+      <DependentUpon>RefrigeratorForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Screens\SalaryCalculation.resx">
       <DependentUpon>SalaryCalculation.cs</DependentUpon>

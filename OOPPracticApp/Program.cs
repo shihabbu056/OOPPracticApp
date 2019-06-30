@@ -20,7 +20,8 @@ namespace OOPPracticApp
             //Application.Run(new AccountOperation());
             //Application.Run(new SalaryCalculation());
             //Application.Run(new CalculatorForm());
-            Application.Run(new PersonInformationForm());
+            //Application.Run(new PersonInformationForm());
+            Application.Run(new RefrigeratorForm());
         }
     }
 }

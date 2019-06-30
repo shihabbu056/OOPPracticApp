@@ -22,9 +22,9 @@ namespace OOPPracticApp.Screens
 
         private void buttonShow_Click(object sender, EventArgs e)
         {
-            person.FirstName = textBoxFirstName.Text;
-            person.MiddleName = textBoxMiddleName.Text;
-            person.LastName = textBoxLastName.Text;
+            //person.FirstName = textBoxFirstName.Text;
+            //person.MiddleName = textBoxMiddleName.Text;
+            //person.LastName = textBoxLastName.Text;
 
             textBoxFirstName.Text = "";
             textBoxMiddleName.Text = "";
