@@ -33,3 +33,4 @@ D:\MITM APP\My Git File\OOPPracticApp\OOPPracticApp\bin\Debug\OOPPracticApp.pdb
 G:\BITM All App\OOPPracticApp\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.Screens.PersonInformationForm.resources
 G:\BITM All App\OOPPracticApp\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.Screens.RefrigeratorForm.resources
 G:\BITM All App\OOPPracticApp\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.csprojResolveAssemblyReference.cache
+G:\BITM All App\OOPPracticApp\OOPPracticApp\OOPPracticApp\obj\Debug\OOPPracticApp.Screens.VehicleForm.resources
